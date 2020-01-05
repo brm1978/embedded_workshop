@@ -1,2 +1,2 @@
 # embedded_workshop
-µC-Programming workshop
+Unterlagen zum µC-Programming-Event
